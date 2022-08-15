@@ -62,7 +62,7 @@ body {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-style: italic;
-  font-size: 70px;
+  font-size: 50px;
   text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15), 1px 1px 0 #ffc8c8, 2px 2px 0 #ff9696, 3px 3px 0 #ff7d7d;
   color: #FFF;
 }
@@ -88,7 +88,7 @@ p.signed {
   text-align: center;
   font-family: 'Indie Flower', cursive;
   font-weight: bold;
-  font-size: 0.75em;
+  font-size: 0.55em;
 }
 
 #card-front {
@@ -192,7 +192,7 @@ p.signed {
 }
 
 footer {
-  max-width: 500px;
+  max-width: 300px;
   margin: 40px auto;
 font-family: 'Lobster', cursive;
   font-size: 14px;
@@ -224,7 +224,7 @@ font-family: 'Lobster', cursive;
   margin-left: -2.4px;
   margin-top: -8.33333333px;
   width: 5px;
-  height: 35px;
+  height: 15px;
   -webkit-transform: translateY(-300px);
           transform: translateY(-300px);
   -webkit-backface-visibility: hidden;
@@ -338,7 +338,7 @@ font-family: 'Lobster', cursive;
 .text {
   color: #8b6a60;
   font-family: 'Lobster', cursive;
-  font-weight: 300;
+  font-weight: 100;
   font-style: italic;
   text-align: center;
 }
@@ -413,7 +413,7 @@ font-family: 'Lobster', cursive;
 
 .wishesFont{
   font-family: 'Indie Flower', cursive;
-  font-weight: 800;
+  font-weight: 100;
 }
 
 @-webkit-keyframes fade-in {
