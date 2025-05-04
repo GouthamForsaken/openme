@@ -26,4 +26,12 @@
     }, 1000);
   });
 
+  document.getElementById('open').addEventListener('click', function() {
+    const audio = document.querySelector('audio');
+    audio.play().catch(e => {
+        console.error("Audio play failed:", e);
+        // You might want to show a message to the user here
+    });
+});
+
 }());
